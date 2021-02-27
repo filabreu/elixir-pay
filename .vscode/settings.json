@@ -1,0 +1,5 @@
+{
+  "elixir.credo.executePath": "docker-compose run app mix",
+  "elixirLS.dialyzerEnabled": false,
+  "elixirLS.suggestSpecs": false
+}
